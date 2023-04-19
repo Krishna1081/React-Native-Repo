@@ -1,6 +1,6 @@
 Week 1: JavaScript Basics
 
-   [] Day 1: "JavaScript Tutorial for Beginners" by Programming with Mosh (3 hours) 
+   - [] Day 1: "JavaScript Tutorial for Beginners" by Programming with Mosh (3 hours) 
     Day 2: "JavaScript Crash Course for Beginners" by Traversy Media (3 hours) 
     Day 3: "JavaScript Closures" by Fun Fun Function (1 hour) 
     Day 4: "Asynchronous JavaScript" by The Net Ninja (1 hour) 
