@@ -18,12 +18,3 @@
     myVariable = "Steve";
 
 data types that you can assign to variables
-    | Variable | Explanation | Example                 |
-    |:--------:|:-----------:|-------------------------|
-    | String   |This is a sequence of text known as a string.| let myVariable = 'Bob'; |
-                To signify that the value is a string, 
-                enclose it in single or double quote marks.
-    | Number   |             |                         |
-    | Boolean  |             |                         |
-    | Array    |             |                         |
-    | Object   |             |                         |
